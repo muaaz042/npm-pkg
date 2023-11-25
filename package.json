@@ -1,0 +1,22 @@
+{
+  "name": "starting-sum",
+  "version": "1.0.0",
+  "description": "All numbers shuold be added before the entered number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muaaz042/npm-pkg.git"
+  },
+  "keywords": [
+    "sum"
+  ],
+  "author": "Muaaz Ahmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muaaz042/npm-pkg/issues"
+  },
+  "homepage": "https://github.com/muaaz042/npm-pkg#readme"
+}
